@@ -7,9 +7,9 @@ This is a simple Bash script that implements a Tic-Tac-Toe game for a single pla
 - Saving and loading the game state
 
 To run game:
-
+```
 ./tictactoe.sh
-
+```
 
 Examples:
 
